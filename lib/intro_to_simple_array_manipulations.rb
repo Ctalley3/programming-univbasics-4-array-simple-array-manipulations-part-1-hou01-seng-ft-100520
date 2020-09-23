@@ -22,3 +22,4 @@ end
 
 def shift_eith_args(array) 
   array.shift(2)
+end
